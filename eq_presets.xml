@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<eqp version="1">
+    <preset id="3" name="Preset 4-Band EQ (default)" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="250.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="3000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="6000.00" Q="1.20000005" />
+    </preset>
+    <preset id="4" name="Preset 4-Band EQ (alternative)" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="100.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="2500.00" BW="2.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="10000.00" Q="1.20000005" />
+    </preset>
+    <preset id="5" name="Preset 5-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="125.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="3000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="6000.00" Q="1.20000005" />
+    </preset>
+    <preset id="6" name="Preset 6-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="125.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="3000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="6000.00" Q="1.20000005" />
+    </preset>
+    <preset id="7" name="Preset 7-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="125.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="8000.00" Q="1.20000005" />
+    </preset>
+    <preset id="8" name="Preset 8-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="125.00" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="16000.00" Q="1.20000005" />
+    </preset>
+    <preset id="9" name="Preset 9-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="62.5" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="16000.00" Q="1.20000005" />
+    </preset>
+    <preset id="10" name="Preset 10-Band EQ" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="31.25" Q="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="16000.00" Q="1.20000005" />
+    </preset>
+    <preset id="1" name="Preset #1 (default)" bind="0">
+        <band type="LOWSHELF" gain="-7.21999979" freq="106.00" Q="2.9224" />
+        <band type="PEAKEQ" gain="-7.9199996" freq="860.00" BW="5.00" />
+        <band type="PEAKEQ" gain="7.90999985" freq="1497.00" BW="4.7143302" />
+        <band type="HIGHSHELF" gain="2.45000005" freq="419.00" Q="1.35244" />
+    </preset>
+    <preset id="2" name="Preset #2" bind="0">
+        <band type="LOWSHELF" gain="0.00" freq="100.00" Q="2.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.25" />
+        <band type="PEAKEQ" gain="0.00" freq="2500.00" BW="2.00" />
+        <band type="HIGHSHELF" gain="0.00" freq="10000.00" Q="1.755" />
+    </preset>
+    <preset id="11" name="Flat (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="0.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="12" name="Acoustic (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.375" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.5" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.875" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.875" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="13" name="Classical (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.25" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="14" name="Dance (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="3.5" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="2.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.5" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="15" name="Deep (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.5" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.25" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="16" name="Electronic (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.5" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.25" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="17" name="Hip Hop (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="18" name="Jazz (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="19" name="Latin (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.25" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="20" name="Loudness (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="3.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.25" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.5" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.5" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="21" name="Lounge (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="-1.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.5" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="22" name="Piano (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="1.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="23" name="Pop (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="-0.75" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="24" name="R&amp;B (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="1.25" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.25" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.375" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="25" name="Rock (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.5" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.25" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="26" name="Vocal (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="-0.75" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.5" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.5" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.5" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.75" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.75" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="27" name="Speech (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="-2.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.25" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.25" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.25" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.125" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="28" name="Bass Booster (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.625" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="29" name="Bass Reducer (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="-2.5" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.75" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.25" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.625" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="30" name="Treble Booster (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="0.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.625" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.25" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="1.75" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="2.5" freq="16000.00" BW="1.00" />
+    </preset>
+    <preset id="31" name="Treble Reducer (10-Band Graphic)" bind="0">
+        <band type="PEAKEQ" gain="0.00" freq="31.25" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="62.5" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="125.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="250.00" BW="1.00" />
+        <band type="PEAKEQ" gain="0.00" freq="500.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-0.625" freq="1000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.25" freq="2000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-1.75" freq="4000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.00" freq="8000.00" BW="1.00" />
+        <band type="PEAKEQ" gain="-2.5" freq="16000.00" BW="1.00" />
+    </preset>
+</eqp>
