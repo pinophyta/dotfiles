@@ -9,7 +9,7 @@
     <url name="07 Radio Kultura" genre="Misc" br="192" type="mpeg" url=" http://savonet.sf.net" desc="Liquidsoap Radio!">http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps</url>
     <url name="08 Ambient Sleeping Pill mp3 high " genre="Ambient" br="160" type="mpeg" url="http://ambientsleepingpill.com" desc="">http://stereoscenic.com/pls/pill-hi-mp3.pls</url>
     <url name="NPR Program Stream" genre="" br="96" type="mpeg" url="http://nprdmp-live01-mp3.akacast.akamaistream.net/7/998/364916/v1/npr.akacast.akamaistream.net/nprdmp_live01_mp3" desc="NPR Program Stream">http://www.npr.org/streams/mp3/nprlive24.pls</url>
-    <url name="Radio Orpheus" genre="Classics" br="128" type="mpeg" url=" http://www.fonotron.ru/" desc="Radio Orpheus Live">http://www.fonotron.ru/stream/channel99.mp3</url>
+    <url name="Radio Orpheus" genre="Classics" br="128" type="mpeg" url=" http://www.fonotron.ru/" desc="Radio Orpheus Live">http://icecast.orpheus.cdnvideo.ru/orpheus_128</url>
     <url name="WQXR AAC 32" genre="Various" br="32" type="aacp" url="http://www.wqxr.org/" desc="WQXR">http://www.wqxr.org/stream/wqxr/aac.pls</url>
     <url name="Staroe Radio" genre="(null)" br="128" type="mpeg" url="http://www.staroeradio.ru/" desc="(null)">http://www.staroeradio.ru/ices128.m3u</url>
     <url name="E24" genre="Ecelctic" br="128" type="mpeg" url="http://www.kcrw.com" desc="Eclectic 24">http://media.kcrw.com/live/kcrwmusic.pls</url>
